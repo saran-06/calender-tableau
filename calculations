@@ -1,0 +1,4 @@
+CALCULATIONS:
+DAYNAME-     DATENAME('weekday',[Order Date])
+NO.OF.DAYS-  DATEPART('day',[Order Date])
+NO.OF.WEEKS- DATENAME('week',[Order Date])
